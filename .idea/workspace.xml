@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d946494c-a0c5-42fc-8ac4-e11655045eed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/pages/GoogleSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/pages/POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/pages/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/runner/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/GoogleSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/GoogleSearchStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/Hook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/LoginStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/ProductSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/DocuportConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/DocuportUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/DocuportWebTableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/GeneralConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/LoopCampConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/PizzaOrderWebTableUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/WebDriverUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/google_search.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/google_search_data_table.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/google_search_outline.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/loginFeature.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/product.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2t0oWg9nlzHfpzsDWevrqnzsKit" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/z/IdeaProjects/cucumber-project-b4/src/test/java/io/loop/utilities&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\z\IdeaProjects\cucumber-project-b4\src\test\java\io\loop\utilities" />
+      <recent name="C:\Users\z\IdeaProjects\cucumber-project-b4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="Scenario: Login as a client" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/loginFeature.feature" />
+      <option name="GLUE" value="io.loop.step_definition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-project-b4" />
+      <option name="NAME_FILTER" value="^Login as a client$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login as a client$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login as a client" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber-project-b4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.loop.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.loop.runner" />
+      <option name="MAIN_CLASS_NAME" value="io.loop.runner.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Login as a client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d946494c-a0c5-42fc-8ac4-e11655045eed" name="Changes" comment="" />
+      <created>1739498385719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739498385719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
