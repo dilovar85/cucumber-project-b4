@@ -5,39 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d946494c-a0c5-42fc-8ac4-e11655045eed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/pages/GoogleSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/pages/POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/pages/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/runner/CukesRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/GoogleSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/GoogleSearchStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/Hook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/LoginStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/step_definitions/ProductSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/DocuportConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/DocuportUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/DocuportWebTableUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/GeneralConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/LoopCampConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/PizzaOrderWebTableUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/loop/utilities/WebDriverUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/google_search.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/google_search_data_table.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/google_search_outline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/loginFeature.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/product.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
